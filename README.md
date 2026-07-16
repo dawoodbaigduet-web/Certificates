@@ -22,3 +22,32 @@ RoboSoccer Competition will be held on ‘Developers Day'26.RoboSoccer Competiti
 - AI for Engineering
 
 I am always striving to become better in academic and technical aspects.
+## Preview
+
+### 🏆 Hifz-ul-Quran
+
+![](hifz-ul-quran-certificate.jpg)
+
+---
+
+### 📖 AAMA (Arabic & Islamic Studies)
+
+![](aama-arabic-islamic-studies.jpg)
+
+---
+
+### 🤖 RoboSoccer Competition
+
+![](developers-day-2026-robosoccer.jpg)
+
+---
+
+### 💻 Software Fundamentals Workshop
+
+![](ieee-software-fundamentals.jpg)
+
+---
+
+### 🔧 Arduino Workshop
+
+![](arduino-workshop.jpg)
